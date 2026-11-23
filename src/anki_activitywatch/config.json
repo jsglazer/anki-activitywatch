@@ -1,0 +1,5 @@
+{
+  "enabled": true,
+  "activitywatch_url": "http://127.0.0.1:5600",
+  "heartbeat_seconds": 5
+}
