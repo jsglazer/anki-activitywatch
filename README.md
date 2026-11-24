@@ -1,6 +1,6 @@
 # anki-activitywatch
 
-[![release](https://img.shields.io/github/v/release/jsglazer/anki-activitywatch)](https://github.com/jsglazer/anki-activitywatch/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-D97757)](https://claude.com/claude-code)
+[![GitHub release](https://img.shields.io/github/v/release/jsglazer/anki-activitywatch?logo=github)](https://github.com/jsglazer/anki-activitywatch/releases) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jsglazer/anki-activitywatch/blob/main/LICENSE) [![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97756?logo=anthropic)](https://claude.ai) [![Gemini Flash Antigravity](https://img.shields.io/badge/Gemini%20Flash-Antigravity-4f86f7?logo=google-gemini&logoColor=white)](https://github.com/google-gemini) [![CI](https://github.com/jsglazer/anki-activitywatch/actions/workflows/ci.yml/badge.svg)](https://github.com/jsglazer/anki-activitywatch/actions/workflows/ci.yml) [![CodeQL](https://github.com/jsglazer/anki-activitywatch/actions/workflows/codeql.yml/badge.svg)](https://github.com/jsglazer/anki-activitywatch/actions/workflows/codeql.yml) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jsglazer/anki-activitywatch/badge)](https://securityscorecards.dev/viewer/?uri=github.com/jsglazer/anki-activitywatch)
 
 Version 1.0.0
 
